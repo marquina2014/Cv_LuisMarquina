@@ -184,9 +184,7 @@ function App() {
             <h4>Ingeniero en Sistemas | Power Platform | React Developer</h4>
           </div>
 
-          <a className="download-button" href="/CV_Luis_Marquina.pdf" download>
-            Descargar CV
-          </a>
+       
         </header>
 
         <section className="content-section resumen">
