@@ -32,7 +32,7 @@ const proyectos = [
       "React Router",
       "Vercel",
     ],
-    url: "https://bos-in-action-bxpq-8972usd9d-marquina2014s-projects.vercel.app",
+    url: "https://bos-in-action-bxpq.vercel.app",
     tipo: "Demo pública homologada",
   },
   {
